@@ -2,11 +2,16 @@
 
 ### Pre-Requiste
 
-1. Run command `npm install` to install all dependencies.
+1. Run command
+   `git clone https://github.com/shvhh/Hemant_Rajpoot_Nodetest.git` to clone the repository.
 
-2. Run `npm start` to start the server.
+2. Then run `cd Hemant_Rajpoot_Nodetest` to go into project directory.
 
-3. Run `npm test` to run tests.
+3. Run `npm install` to install all dependencies.
+
+4. Run `npm start` to start the server.
+
+5. Run `npm test` to run tests.
 
 ---
 
